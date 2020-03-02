@@ -5,8 +5,6 @@
 + USB Host App: Mscopes
 + DUT : USB HDMI Capture
 + HDMI Source : Sony BDP-1500
-+ Other App
-    [USB摄像头](https://play.google.com/store/apps/details?id=com.shenyaocn.android.usbcamera&hl=zh)
 
 + Picture
    ![pic](pic.jpg)
